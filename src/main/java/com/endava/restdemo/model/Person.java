@@ -9,7 +9,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Person {
+public class  Person {
 
   @NotNull
   @Size(min = 3, max = 30)
